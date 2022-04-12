@@ -1,0 +1,17 @@
+//Strings
+//Es un tipo de dato, que se compone de valores en texto y debe ir entre comillas 
+//para difereciarlo de las palabras usadas en la programacion de javascript
+
+//Funciones (argumentos, return)
+//Dentro de las funciones es un espacio donde podemos incluir a las variables para poder jugar con ellas, las relacionamos entre ellas
+//para calculos e hacer infinidad de operaciones.
+//Los argumentos son las variables que vamos a usar dentro de la funcion, se escriben dentro de los parentesis y 
+//nos indican cuantas y que variables podemos usar.
+//Con return obtenemos el resultado de la interaccion de las variables, que nos permite usar la funcion dentro de js.
+
+//Declaraciones if
+//Es una condicional que evalua una expresion lógica para darnos solo dos opciones de resultado:  verdadero o falso. 
+
+//Valores Booleanos (true, false)
+//Son un tipo de dato dentro de JavaScript  a diferencia del texto o numeros que son casi ilimitados
+//en este caso solo son dos en base a logica de si una expresion es verdadera o falsa.
