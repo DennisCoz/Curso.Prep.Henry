@@ -1,0 +1,9 @@
+* `for`
+es una expresion que se usa en javascript para abreviar tareas repetitivas
+tiene el funcionamiento de un bucle, es decir realiza la misma accion en base a los parametros de valor inicial y valor final
+
+* `&&`, `||`, `!`
+los operadores logicos que vemos en las clases de logica tiene su propia forma de ser escritos en lengua javascript, y juegan con los valores booleanos de true y false
+por ejemplo el operador "y" o "and" se escribe &&, y solo devuelve el valor verdadero si todas expresiones evaluadas son verdaderas
+el operador "o" u "or" se escribe || , y devuelve al valor verdadero si al menos una de las expresiones es verdadera.
+y el ultimo es el "not" y se escribe con !, devuelve el valor inverso de la expresion .
