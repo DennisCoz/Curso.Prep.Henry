@@ -1,0 +1,4 @@
+* Arrays
+Es un conjunto de datos asignados con un nombre, 
+dentro de este conjunto (matriz), tienen un orden que empieza desde 0
+este contenedro de datos nos permite agregar o quitar elementos usando sus propios codigos.
