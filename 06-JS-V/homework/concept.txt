@@ -1,0 +1,7 @@
+* `prototype`
+cada clase posee esta propiedad que nos permite crear un metodo
+que podra usarse en muchos objetos sin necesidad de redactarlo en cada uno.
+
+* _Constructors_ (de Clases)
+es una funcion que nos permite construir objetos, ahi contiene los claves que seran la 'pllantilla'
+para poder ocnstruir con el keyword 'new' nuevos objetos.

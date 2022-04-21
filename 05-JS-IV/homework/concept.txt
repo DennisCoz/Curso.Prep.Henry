@@ -1,0 +1,23 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+un objeto es un array mas avanzado, 
+contiene un conjunto de datos basados en pares (la clave y el valor de esa clave)
+las claves son las caracteristicas del objeto , y la descripcion de estas caracterisiticas generalos son los valores que se asignan a cada clave
+
+Propiedades
+al establecer un objeto y sus claves (las claves con sus valores)
+estas ultimas se convierten en las propiedades del objeto, y se pueden llamar mediante puntos o corchetes.
+
+Métodos
+se les llama asi al valor de una clave, que se establece como una función.
+
+Bucle for…in
+es el blucle que itera cada clave dentro del objeto, ya que aqui no hay un indice como en los arrays
+es necesario conocer este otro tipo de bucle, para recorrer los valores del objeto.
+
+Notación de puntos vs notación de corchetes
+en la notacion de puntos primero se escribe el nombre ddel objeto, luego seguido el punto y luego el nombre de la clave que queremos usar
+en la notacion de corchetes, se escribe el nombre del objeto luego seguido dentro de corchetes se escribe el nombre de la clave pero ojo en comillas.
+
