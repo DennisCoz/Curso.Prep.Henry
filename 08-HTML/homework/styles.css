@@ -1,0 +1,35 @@
+h1{
+    color:peru;
+ }
+ img{
+     width: 400px;
+ }
+ #thirdDiv {
+     background-color: crimson;
+    height: 600px;
+    width: 600px;
+    padding: 50px;
+    border: 25px solid purple;
+  
+ }
+ #spanId {
+     font-size: 18px;
+     margin: 50px;
+      }
+ 
+  body {
+    background-image: url("https://thumbs4.properati.com/6/CG84Eap2pkfUEPARNEZZhB_AR3E=/trim/fit-in/0x0/smart/filters:strip_icc()/https://properati-s3-pe.s3-us-west-2.amazonaws.com/temp-developments-editor-cc8bfd30-8b08-4307-9b43-c26fa15e7aa1-GettyImages-639495034.jpg");
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    
+    justify-content: center;
+    align-items: center;
+  }
+  div{
+    max-width: 600px;
+   margin: 20px auto;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
