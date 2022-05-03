@@ -1,12 +1,15 @@
+//variables
+//son un espacio de memoria asignado a algun valor, la forma de definirlo es usando var
+
 //Strings
 //Es un tipo de dato, que se compone de valores en texto y debe ir entre comillas 
-//para difereciarlo de las palabras usadas en la programacion de javascript
+//para difereciarlo de las palabras nativas usadas en la programacion de javascript
 
 //Funciones (argumentos, return)
-//Dentro de las funciones es un espacio donde podemos incluir a las variables para poder jugar con ellas, las relacionamos entre ellas
-//para calculos e hacer infinidad de operaciones.
+//La funcion es un espacio donde podemos incluir a las variables para poder jugar con ellas, las relacionamos entre ellas
+//para calculos e hacer infinidad de operaciones. Es un codigo que podemos usar varias veces.
 //Los argumentos son las variables que vamos a usar dentro de la funcion, se escriben dentro de los parentesis y 
-//nos indican cuantas y que variables podemos usar.
+//nos indican cuantas y que variables podemos usar en el espacio dentro de la funcion.
 //Con return obtenemos el resultado de la interaccion de las variables, que nos permite usar la funcion dentro de js.
 
 //Declaraciones if
